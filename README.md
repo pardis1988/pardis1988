@@ -1,16 +1,48 @@
-## Hi there 👋
+👋 Hi, I'm Pardis!
 
-<!--
-**pardis1988/pardis1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a developer passionate about building modern and useful web applications.
+Currently learning, building projects, and improving my skills every day. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+💻 Languages
+
+🐍 Python
+ ⚡ JavaScript
+  🌐 HTML5
+🎨 CSS3
+
+ 🚀 Frameworks & Tools
+
+ Django
+ Git & GitHub
+ PyCharm
+ VS Code
+
+
+
+
+ 🚀 What I'm Working On
+
+🌱 Improving my Python & Django skills
+💻 Building full-stack web applications
+⚡ Learning modern JavaScript
+🔧 Working on personal projects
+📚 Learning something new every day
+
+
+
+ 📌 Featured Projects
+
+🔹 Django Blog**
+A web blog built with Django, featuring posts, comments, and a structured backend.
+
+🔹More projects coming soon...** 🚧
+
+
+
+
+
+### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
