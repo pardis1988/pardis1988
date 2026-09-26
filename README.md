@@ -42,7 +42,3 @@ A web blog built with Django, featuring posts, comments, and a structured backen
 🔹More projects coming soon...** 🚧
 
 
-
-
-
-### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
